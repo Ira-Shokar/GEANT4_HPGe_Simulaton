@@ -7,7 +7,7 @@ Login and Set-Up
 To login to the UCL High Energy Physics cluster use the following commands in the Terminal/Command Prompt:
 
 ssh -X ishokar@plus1.hep.ucl.ac.uk
-(password:) mAti2magic (you won’t be able to see what you are typing, don’t worry about this)
+(password:) ******** (you won’t be able to see what you are typing, don’t worry about this)
 
 (The first time you do this something will come up asking yes/no, you should type: yes)
 
