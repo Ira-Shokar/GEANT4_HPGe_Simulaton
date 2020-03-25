@@ -1,0 +1,1 @@
+/home/ishokar/GEANT4/B4c_build/CMakeFiles/exampleB4c.dir
