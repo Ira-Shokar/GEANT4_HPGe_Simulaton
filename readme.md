@@ -2,8 +2,6 @@ GEANT 4 Tutorial for the rest of Group 14
 
 I hope all the following is clear and makes sense, if not let me know - Ira
 
-(To run SL6 rather than CentOS7 for Dawn: ssh -X ishokar@pc195.hep.ucl.ac.uk)
-
 To set up the environment enter:
 
 source /unix/local/Geant4/Geant4-10.4.0-Linux/bin/geant4.sh
