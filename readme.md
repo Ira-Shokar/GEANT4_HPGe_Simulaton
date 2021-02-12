@@ -2,18 +2,6 @@ GEANT 4 Tutorial for the rest of Group 14
 
 I hope all the following is clear and makes sense, if not let me know - Ira
 
-Login and Set-Up
-
-To login to the UCL High Energy Physics cluster use the following commands in the Terminal/Command Prompt:
-
-ssh -Y ishokar@plus1.hep.ucl.ac.uk
-(password:) ******** (you won’t be able to see what you are typing, don’t worry about this)
-
-(The first time you do this something will come up asking yes/no, you should type: yes)
-
-ssh -Y ishokar@pc202.hep.ucl.ac.uk
-(password:) ********
-
 (To run SL6 rather than CentOS7 for Dawn: ssh -X ishokar@pc195.hep.ucl.ac.uk)
 
 To set up the environment enter:
